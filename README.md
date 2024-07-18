@@ -34,12 +34,12 @@ If you want to run this project locally, we recommend you configure the back-end
 
 ## Try Our Web Application
 
-<a href="https://client-peworld.vercel.app/">Launch to our App</a>
+<a href="https://frontenddevreactjs-alifmiftakhulfatah.netlify.app/">Launch to our App</a>
 
 If you want to try our web application, you can use the following account :
 
-username : admin
-password : Admin#1234
+- username : admin
+- password : Admin#1234
 
 ## Contact
 
